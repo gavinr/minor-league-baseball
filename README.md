@@ -1,4 +1,4 @@
-# minor-league-baseball
+# Minor League Baseball
 Data set of minor league baseball teams
 
 ## Map
