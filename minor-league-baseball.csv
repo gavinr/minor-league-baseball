@@ -1,0 +1,241 @@
+league,team,division,city,lat,lon,latLonSpecificity
+International League,Buffalo Bisons,North,"Buffalo, New York",42.88111111,-78.87416667,stadium
+International League,Charlotte Knights,South,"Charlotte, North Carolina",35.227988,-80.849011,stadium
+International League,Columbus Clippers,West,"Columbus, Ohio",39.968619,-83.010743,stadium
+International League,Durham Bulls,South,"Durham, North Carolina",35.99168889,-78.90418611,stadium
+International League,Gwinnett Stripers,South,"Lawrenceville, Georgia",34.04149444,-83.99236667,stadium
+International League,Indianapolis Indians,West,"Indianapolis, Indiana",39.765,-86.16833333,stadium
+International League,Lehigh Valley IronPigs,North,"Allentown, Pennsylvania",40.62611111,-75.4525,stadium
+International League,Louisville Bats,West,"Louisville, Kentucky",38.25618611,-85.74465278,stadium
+International League,Norfolk Tides,South,"Norfolk, Virginia",36.84278889,-76.27886944,stadium
+International League,Pawtucket Red Sox,North,"Pawtucket, Rhode Island",41.87316389,-71.37003889,stadium
+International League,Rochester Red Wings,North,"Rochester, New York",43.15826667,-77.61979444,stadium
+International League,Scranton/Wilkes-Barre RailRiders,North,"Moosic, Pennsylvania",41.36040556,-75.68396667,stadium
+International League,Syracuse Chiefs,North,"Syracuse, New York",43.07907778,-76.16535833,stadium
+International League,Toledo Mud Hens,West,"Toledo, Ohio",41.64833333,-83.53888889,stadium
+Pacific Coast League,Albuquerque Isotopes,Pacific Southern,"Albuquerque, New Mexico",35.07,-106.629,teamPage
+Pacific Coast League,Colorado Springs Sky Sox,American Northern,"Colorado Springs, Colorado",38.83388889,-104.82527778,city
+Pacific Coast League,El Paso Chihuahuas,Pacific Southern,"El Paso, Texas",31.759,-106.493,stadium
+Pacific Coast League,Fresno Grizzlies,Pacific Northern,"Fresno, California",36.7321,-119.7905,stadium
+Pacific Coast League,Iowa Cubs,American Northern,"Des Moines, Iowa",41.58027778,-93.61583333,stadium
+Pacific Coast League,Las Vegas 51s,Pacific Southern,"Summerlin, Nevada",36.15227778,-115.32941667,stadium
+Pacific Coast League,Memphis Redbirds,American Southern,"Memphis, Tennessee",35.14305556,-90.04916667,stadium
+Pacific Coast League,Nashville Sounds,American Southern,"Nashville, Tennessee",36.173031,-86.785033,stadium
+Pacific Coast League,New Orleans Baby Cakes,American Southern,"Metairie, Louisiana",29.97544167,-90.19974167,stadium
+Pacific Coast League,Oklahoma City Dodgers,American Northern,"Oklahoma City, Oklahoma",35.46496111,-97.50805,stadium
+Pacific Coast League,Omaha Storm Chasers,American Northern,"Papillion, Nebraska",41.151,-96.107,teamPage
+Pacific Coast League,Reno Aces,Pacific Northern,"Reno, Nevada",39.529,-119.808,stadium
+Pacific Coast League,Round Rock Express,American Southern,"Round Rock, Texas",30.5273,-97.6305,stadium
+Pacific Coast League,Sacramento River Cats,Pacific Northern,"West Sacramento, California",38.58037222,-121.5138,stadium
+Pacific Coast League,Salt Lake Bees,Pacific Southern,"Salt Lake City, Utah",40.741,-111.893,stadium
+Pacific Coast League,Tacoma Rainiers,Pacific Northern,"Tacoma, Washington",47.23803333,-122.49754444,stadium
+Eastern League,Akron RubberDucks,Western,"Akron, Ohio",41.077924,-81.522202,stadium
+Eastern League,Altoona Curve,Western,"Altoona, Pennsylvania",40.47361111,-78.39472222,stadium
+Eastern League,Binghamton Rumble Ponies,Eastern,"Binghamton, New York",41.242347,-77.047067,stadium
+Eastern League,Bowie Baysox,Western,"Bowie, Maryland",38.94555556,-76.70916667,stadium
+Eastern League,Erie SeaWolves,Western,"Erie, Pennsylvania",42.12694444,-80.08,stadium
+Eastern League,Harrisburg Senators,Western,"Harrisburg, Pennsylvania",40.256428,-76.889977,stadium
+Eastern League,Hartford Yard Goats,Eastern,"Hartford, Connecticut",41.77138889,-72.67388889,stadium
+Eastern League,New Hampshire Fisher Cats,Eastern,"Manchester, New Hampshire",42.98083333,-71.46666667,stadium
+Eastern League,Portland Sea Dogs,Eastern,"Portland, Maine",43.65694444,-70.27833333,stadium
+Eastern League,Reading Fightin Phils,Eastern,"Reading, Pennsylvania",40.36583333,-75.93361111,stadium
+Eastern League,Richmond Flying Squirrels,Western,"Richmond, Virginia",37.57180556,-77.46373333,stadium
+Eastern League,Trenton Thunder,Eastern,"Trenton, New Jersey",40.2032,-74.7609,stadium
+Southern League,Biloxi Shuckers,South,"Biloxi, Mississippi",30.395741,-88.893463,stadium
+Southern League,Birmingham Barons,North,"Birmingham, Alabama",33.50222222,-86.85583333,stadium
+Southern League,Chattanooga Lookouts,North,"Chattanooga, Tennessee",35.05444444,-85.31388889,stadium
+Southern League,Jackson Generals,North,"Jackson, Tennessee",35.67619167,-88.76930278,stadium
+Southern League,Jacksonville Jumbo Shrimp,South,"Jacksonville, Florida",30.324968,-81.643069,stadium
+Southern League,Mississippi Braves,South,"Pearl, Mississippi",32.27391,-90.147969,stadium
+Southern League,Mobile BayBears,South,"Mobile, Alabama",30.64574,-88.11687,stadium
+Southern League,Montgomery Biscuits,North,"Montgomery, Alabama",32.3822,-86.3106,stadium
+Southern League,Pensacola Blue Wahoos,South,"Pensacola, Florida",30.404295,-87.219662,stadium
+Southern League,Tennessee Smokies,North,"Kodak, Tennessee",35.98888889,-83.60444444,stadium
+Texas League,Arkansas Travelers,North,"Little Rock, Arkansas",34.755215,-92.272582,stadium
+Texas League,Corpus Christi Hooks,South,"Corpus Christi, Texas",27.80958333,-97.39969444,stadium
+Texas League,Frisco RoughRiders,South,"Frisco, Texas",33.098382,-96.81972,stadium
+Texas League,Midland RockHounds,South,"Midland, Texas",31.987332,-102.155799,stadium
+Texas League,Northwest Arkansas Naturals,North,"Springdale, Arkansas",36.1592,-94.195,stadium
+Texas League,San Antonio Missions,South,"San Antonio, Texas",29.40913056,-98.60111389,stadium
+Texas League,Springfield Cardinals,North,"Springfield, Missouri",37.21111111,-93.27972222,stadium
+Texas League,Tulsa Drillers,North,"Tulsa, Oklahoma",36.15972222,-95.98805556,stadium
+California League,Inland Empire 66ers,South,"San Bernardino, California",34.09722222,-117.29527778,stadium
+California League,Lake Elsinore Storm,South,"Lake Elsinore, California",33.65416667,-117.30194444,stadium
+California League,Lancaster Jethawks,South,"Lancaster, California",34.702811,-118.172972,stadium
+California League,Modesto Nuts,North,"Modesto, California",37.622658,-121.000814,stadium
+California League,Rancho Cucamonga Quakes,South,"Rancho Cucamonga, California",34.102765,-117.54797,stadium
+California League,San Jose Giants,North,"San Jose, California",37.32055556,-121.86222222,stadium
+California League,Stockton Ports,North,"Stockton, California",37.95485556,-121.29795556,stadium
+California League,Visalia Rawhide,North,"Visalia, California",36.3325,-119.30472222,stadium
+Carolina League,Buies Creek Astros,Southern,"Fayetteville, North Carolina",35.055914,-78.883382,stadium
+Carolina League,Carolina Mudcats,Southern,"Zebulon, North Carolina",35.81722222,-78.27,stadium
+Carolina League,Down East Wood Ducks,Southern,"Kinston, North Carolina",35.27,-77.57416667,stadium
+Carolina League,Frederick Keys,Northern,"Frederick, Maryland",39.40138889,-77.41333333,stadium
+Carolina League,Lynchburg Hillcats,Northern,"Lynchburg, Virginia",37.392816,-79.165623,stadium
+Carolina League,Myrtle Beach Pelicans,Southern,"Myrtle Beach, South Carolina",33.711682,-78.8845,stadium
+Carolina League,Potomac Nationals,Northern,"Woodbridge, Virginia",38.68416667,-77.3525,stadium
+Carolina League,Salem Red Sox,Northern,"Salem, Virginia",37.28527778,-80.03666667,stadium
+Carolina League,Wilmington Blue Rocks,Northern,"Wilmington, Delaware",39.73222222,-75.56444444,stadium
+Carolina League,Winston-Salem Dash,Southern,"Winston-Salem, North Carolina",36.091602,-80.255962,stadium
+Florida State League,Bradenton Marauders,South,"Bradenton, Florida",27.48583333,-82.57027778,stadium
+Florida State League,Charlotte Stone Crabs,South,"Port Charlotte, Florida",26.99916667,-82.18166667,stadium
+Florida State League,Clearwater Threshers,North,"Clearwater, Florida",27.97166667,-82.73166667,stadium
+Florida State League,Daytona Tortugas,North,"Daytona Beach, Florida",29.2094,-81.0167,stadium
+Florida State League,Dunedin Blue Jays,North,"Dunedin, Florida",28.00361111,-82.78638889,stadium
+Carolina League,Florida Fire Frogs,North,"Kissimmee, Florida",28.2983,-81.3639,stadium
+Florida State League,Fort Myers Miracle,South,"Fort Myers, Florida",26.53833333,-81.84194444,stadium
+Florida State League,Jupiter Hammerheads,South,"Jupiter, Florida",26.8911,-80.1164,stadium
+Florida State League,Lakeland Flying Tigers,North,"Lakeland, Florida",28.07472222,-81.95083333,stadium
+Florida State League,Palm Beach Cardinals,South,"Jupiter, Florida",26.8911,-80.1164,stadium
+Florida State League,St. Lucie Mets,South,"Port St. Lucie, Florida",27.32528056,-80.40449444,stadium
+Florida State League,Tampa Tarpons,North,"Tampa, Florida",27.98027778,-82.50666667,stadium
+Midwest League,Beloit Snappers,Western,"Beloit, Wisconsin",42.53539,-89.007947,stadium
+South Atlantic League,Bowling Green Hot Rods,Eastern,"Bowling Green, Kentucky",36.99677778,-86.44090556,stadium
+Midwest League,Burlington Bees,Western,"Burlington, Iowa",40.827555,-91.136903,stadium
+Midwest League,Cedar Rapids Kernels,Western,"Cedar Rapids, Iowa",41.96805556,-91.68638889,stadium
+Midwest League,Clinton LumberKings,Western,"Clinton, Iowa",41.84694444,-90.20722222,city
+Midwest League,Dayton Dragons,Eastern,"Dayton, Ohio",39.76416667,-84.185,stadium
+Midwest League,Fort Wayne TinCaps,Eastern,"Fort Wayne, Indiana",41.07405556,-85.14286111,stadium
+Midwest League,Great Lakes Loons,Eastern,"Springfield, Illinois",43.60916944,-84.23670278,stadium
+Midwest League,Kane County Cougars,Western,"Geneva, Illinois",41.88065,-88.28175556,stadium
+South Atlantic League,Lake County Captains,Eastern,"Eastlake, Ohio",41.64111111,-81.43555556,stadium
+Midwest League,Lansing Lugnuts,Eastern,"Lansing, Michigan",42.73472222,-84.54527778,stadium
+Midwest League,Peoria Chiefs,Western,"Peoria, Illinois",40.6875,-89.5975,stadium
+Midwest League,Quad Cities River Bandits,Western,"Davenport, Iowa",41.51866944,-90.58224167,stadium
+Midwest League,South Bend Cubs,Eastern,"South Bend, Indiana",41.67039444,-86.25547778,stadium
+Midwest League,West Michigan Whitecaps,Eastern,"Comstock Park, Michigan",43.040195,-85.659832,stadium
+Midwest League,Wisconsin Timber Rattlers,Western,"Appleton, Wisconsin",44.283524,-88.468742,stadium
+South Atlantic League,Asheville Tourists,Southern,"Asheville, North Carolina",35.58722222,-82.54916667,stadium
+South Atlantic League,Augusta GreenJackets,Southern,"North Augusta, South Carolina",33.48388889,-81.97388889,stadium
+South Atlantic League,Charleston (sc) RiverDogs,Southern,"Columbia, South Carolina",32.78333333,-79.93333333,teamPage
+South Atlantic League,Columbia Fireflies,Southern,"Columbia, South Carolina",34.017417,-81.031397,stadium
+South Atlantic League,Delmarva Shorebirds,Northern,"Salisbury, Maryland",38.36972222,-75.52944444,stadium
+South Atlantic League,Greensboro Grasshoppers,Northern,"Greensboro, North Carolina",36.07666667,-79.79472222,stadium
+South Atlantic League,Greenville Drive,Southern,"Greenville, South Carolina",34.8422,-82.4082,stadium
+South Atlantic League,Hagerstown Suns,Northern,"Hagerstown, Maryland",39.63277778,-77.7125,stadium
+South Atlantic League,Hickory Crawdads,Northern,"Hickory, North Carolina",35.74916667,-81.37861111,stadium
+South Atlantic League,Kannapolis Intimidators,Northern,"Kannapolis, North Carolina",35.50777778,-80.56638889,stadium
+South Atlantic League,Lakewood BlueClaws,Northern,"Lakewood, New Jersey",40.07527778,-74.18666667,stadium
+South Atlantic League,Lexington Legends,Southern,"Lexington, Kentucky",38.06545,-84.47852,stadium
+South Atlantic League,Rome Braves,Southern,"Rome, Georgia",34.28583333,-85.16722222,stadium
+South Atlantic League,West Virginia Power,Northern,"Charleston, West Virginia",38.34902778,-81.62511111,stadium
+Northwest League,Boise Hawks,South,"Boise, Idaho",43.656,-116.279,stadium
+Northwest League,Eugene Emeralds,South,"Eugene, Oregon",44.059,-123.066,stadium
+Northwest League,Everett Aqua Sox,North,"Everett, Washington",47.967,-122.203,stadium
+Northwest League,Hillsboro Hops,South,"Hillsboro, Oregon",45.51666667,-122.98333333,city
+Northwest League,Salem-Keizer Volcanoes,South,"Keizer, Oregon",45.015,-122.994,stadium
+Northwest League,Spokane Indians,North,"Spokane Valley, Washington",47.662,-117.345,stadium
+Northwest League,Tri-City Dust Devils,North,"Pasco, Washington",46.267,-119.172,stadium
+Northwest League,Vancouver Canadians,North,"Vancouver, British Columbia",49.2431,-123.1063,stadium
+New York-Penn League,Aberdeen IronBirds,McNamara,"Aberdeen, Maryland",39.530873,-76.185985,stadium
+New York-Penn League,Auburn Doubledays,Pinckney,"Auburn, New York",42.9416,-76.585232,stadium
+New York-Penn League,Batavia Muckdogs,Pinckney,"Batavia, New York",43.009174,-78.178722,stadium
+New York-Penn League,Brooklyn Cyclones,McNamara,"Brooklyn, New York",40.57454722,-73.98435278,stadium
+New York-Penn League,Connecticut Tigers,Stedler,"Norwich, Connecticut",41.573875,-72.10707222,stadium
+New York-Penn League,Hudson Valley Renegades,McNamara,"Wappingers Falls, New York",43.04786111,-77.07416667,stadium
+New York-Penn League,Lowell Spinners,Stedler,"Lowell, Massachusetts",42.65327,-71.318114,stadium
+New York-Penn League,Mahoning Valley Scrappers,Pinckney,"Niles, Ohio",41.2184525,-80.7552409,stadium
+New York-Penn League,State College Spikes,Pinckney,"State College, Pennsylvania",40.81194444,-77.85083333,stadium
+New York-Penn League,Staten Island Yankees,McNamara,"Staten Island, New York",40.645575,-74.07642778,stadium
+New York-Penn League,Tri City ValleyCats,Stedler,"Troy, New York",42.695329,-73.680464,stadium
+New York-Penn League,Vermont Lake Monsters,Stedler,"Burlington, Vermont",44.48165556,-73.18765556,stadium
+New York-Penn League,West Virginia Black Bears,Pinckney,"Granville, West Virginia",39.64473,-79.995838,stadium
+New York-Penn League,Williamsport Crosscutters,Pinckney,"Williamsport, Pennsylvania",41.242347,-77.047067,stadium
+Appalachian League,Bluefield Blue Jays,East,"Bluefield, Virginia",37.24944444,-81.24638889,stadium
+Appalachian League,Bristol Pirates,West,"Bristol, Virginia",36.601968,-82.199251,stadium
+Appalachian League,Burlington Royals,East,"Burlington, North Carolina",36.08805556,-79.40833333,stadium
+Appalachian League,Danville Braves,East,"Danville, Virginia",36.57583333,-79.3725,stadium
+Appalachian League,Elizabethton Twins,West,"Elizabethton, Tennessee",36.354899,-82.232183,stadium
+Appalachian League,Greeneville Reds,West,"Greeneville, Tennessee",36.173149,-82.756115,stadium
+Appalachian League,Johnson City Cardinals,West,"Johnson City, Tennessee",36.31861111,-82.34083333,stadium
+Appalachian League,Kingsport Mets,West,"Kingsport, Tennessee",36.56277778,-82.59861111,stadium
+Appalachian League,Princeton Rays,East,"Princeton, West Virginia",37.35833333,-81.10527778,stadium
+Appalachian League,Pulaski Yankees,East,"Pulaski, Virginia",37.03930556,-80.77555556,stadium
+Arizona League,Arizona Angels,East,"Tempe, Arizona",33.40055556,-111.96972222,stadium
+Arizona League,Arizona Athletics,East,"Phoenix, Arizona",33.428285,-111.829762,stadium
+Arizona League,Arizona Brewers,Central,"Phoenix, Arizona",33.49222222,-112.17305556,stadium
+Arizona League,Arizona Cubs,East,"Mesa, Arizona",33.4313,-111.8816,stadium
+Arizona League,Arizona Cubs 2,Central,"Mesa, Arizona",33.4313,-111.8816,stadium
+Arizona League,Arizona Diamondbacks,East,"Scottsdale, Arizona",33.54611111,-111.88527778,stadium
+Arizona League,Arizona Dodgers,West,"Phoenix, Arizona",33.5142,-112.2958,stadium
+Arizona League,Arizona Giants,East,"Scottsdale, Arizona",33.48833333,-111.92111111,stadium
+Arizona League,Arizona Giants Orange,East,"Scottsdale, Arizona",33.48833333,-111.92111111,stadium
+Arizona League,Arizona Indians,Central,"Goodyear, Arizona",33.42916667,-112.39,stadium
+Arizona League,Arizona Indians 2,Central,"Goodyear, Arizona",33.42916667,-112.39,stadium
+Arizona League,Arizona Mariners,West,"Peoria, Arizona",33.5825,-112.23861111,city
+Arizona League,Arizona Padres,West,"Peoria, Arizona",33.5825,-112.23861111,city
+Arizona League,Arizona Padres 2,West,"Peoria, Arizona",33.5825,-112.23861111,city
+Arizona League,Arizona Rangers,West,"Surprise, Arizona",33.62777778,-112.37777778,stadium
+Arizona League,Arizona Reds,Central,"Goodyear, Arizona",33.42916667,-112.39,stadium
+Arizona League,Arizona Royals,West,"Surprise, Arizona",33.62777778,-112.37777778,stadium
+Arizona League,Arizona White Sox,Central,"Phoenix, AZ",33.5142,-112.2958,stadium
+Dominican Summer League,Dominican Angels,South,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Astros,Northwest,Boca Chica,29.6755,-95.4074,stadium
+Dominican Summer League,Dominican Athletics,Northwest,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Blue Jays,Baseball City,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Braves,Northwest,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Brewers,San Pedro,Santo Domingo,18.46666667,-69.95,city
+Dominican Summer League,Dominican Cardinals Blue,South,Santo Domingo,18.46666667,-69.95,city
+Dominican Summer League,Dominican Cardinals Red,San Pedro,Santo Domingo,18.46666667,-69.95,city
+Dominican Summer League,Dominican Colorado,Northeast,,0,0,
+Dominican Summer League,Dominican Cubs,North,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Cubs 2,San Pedro,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Diamondbacks,Baseball City,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Diamondbacks 2,San Pedro,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Dodgers,North,Dominican Republic,19,-70.66666667,city
+Dominican Summer League,Dominican Dodgers 2,Northwest,Dominican Republic,19,-70.66666667,city
+Dominican Summer League,Dominican Giants,San Pedro,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Indians,North,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Indians/Brewers,North,Santo Domingo,18.46666667,-69.95,city
+Dominican Summer League,Dominican Mariners,San Pedro,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Marlins,Northwest,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Mets,South,Boca Chica,40.75694444,-73.84583333,stadium
+Dominican Summer League,Dominican Mets 2,San Pedro,Boca Chica,40.75694444,-73.84583333,stadium
+Dominican Summer League,Dominican Nationals,South,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Orioles,Baseball City,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Padres,Baseball City,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Phillies Red,South,Santo Domingo,18.46666667,-69.95,city
+Dominican Summer League,Dominican Phillies White,San Pedro,Santo Domingo,18.46666667,-69.95,city
+Dominican Summer League,Dominican Pirates,North,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Pirates 2,San Pedro,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Rangers,North,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Rangers 2,San Pedro,,0,0,
+Dominican Summer League,Dominican Rays,Northwest,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Rays 2,North,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Red Sox,Northwest,,0,0,
+Dominican Summer League,Dominican Red Sox 2,North,,0,0,
+Dominican Summer League,Dominican Reds,Baseball City,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Rockies,South,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Royals,Northwest,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Royals 2,San Pedro,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Tigers,San Pedro,,0,0,
+Dominican Summer League,Dominican Tigers 2,San Pedro,,0,0,
+Dominican Summer League,Dominican Twins,South,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican White Sox,Baseball City,Boca Chica,18.45388889,-69.60638889,city
+Dominican Summer League,Dominican Yankees 2,South,,0,0,
+Gulf Coast League,Gulf Coast Astros,East,"West Palm Beach, Florida",26.758729,-80.116885,stadium
+Gulf Coast League,Gulf Coast Blue Jays,Northwest,"Dunedin, Florida",28.03202778,-82.75602778,stadium
+Gulf Coast League,Gulf Coast Braves,Northeast,"North Port, Florida",27.033728,-82.319887,stadium
+Gulf Coast League,Gulf Coast Cardinals,East,"Jupiter, Florida",26.8911,-80.1164,stadium
+Gulf Coast League,Gulf Coast Marlins,East,"Jupiter, Florida",26.8911,-80.1164,stadium
+Gulf Coast League,Gulf Coast Mets,East,Port St. Lucie,27.32528056,-80.40449444,stadium
+Gulf Coast League,Gulf Coast Nationals,East,"West Palm Beach, Florida",26.758729,-80.116885,stadium
+Gulf Coast League,Gulf Coast Orioles,South,"Sarasota, Florida",27.34777778,-82.51722222,stadium
+Gulf Coast League,Gulf Coast Phillies,Northwest,"Clearwater, Florida",27.97166667,-82.73166667,stadium
+Gulf Coast League,Gulf Coast Phillies West,Northwest,"Clearwater, Florida",27.97166667,-82.73166667,stadium
+Gulf Coast League,Gulf Coast Pirates,Northwest,"Bradenton, Florida",27.48333333,-82.58333333,city
+Gulf Coast League,Gulf Coast Rays,South,"Port Charlotte, Florida",26.99916667,-82.18166667,stadium
+Gulf Coast League,Gulf Coast Red Sox,South,"Fort Myers, Florida",26.54805556,-81.76333333,stadium
+Gulf Coast League,Gulf Coast Tigers (East),Northeast,"Lakeland, Florida",28.07472222,-81.95083333,stadium
+Gulf Coast League,Gulf Coast Tigers West,Northwest,"Lakeland, Florida",28.07472222,-81.95083333,stadium
+Gulf Coast League,Gulf Coast Twins,South,"Fort Myers, Florida",26.53833333,-81.84194444,stadium
+Gulf Coast League,Gulf Coast Yankees,Northeast,"Tampa, Florida",27.98027778,-82.50666667,stadium
+Gulf Coast League,Gulf Coast Yankees West,Northwest,"Tampa, Florida",27.98027778,-82.50666667,stadium
+Pioneer League,Billings Mustangs,North,"Billings, Montana",45.79027778,-108.51111111,stadium
+Pioneer League,Grand Junction Rockies,South,"Grand Junction, Colorado",39.076684,-108.550404,stadium
+Pioneer League,Great Falls Voyagers,North,"Great Falls, Montana",47.51691944,-111.25946667,stadium
+Pioneer League,Helena Brewers,North,"Helena, Montana",46.595805,-112.027031,city
+Pioneer League,Idaho Falls Chukars,South,"Idaho Falls, Idaho",43.5,-112.03333333,city
+Pioneer League,Missoula Osprey,North,"Missoula, Montana",46.873431,-114.007294,stadium
+Pioneer League,Ogden Raptors,South,"Ogden, Utah",41.223779,-111.974845,stadium
+Pioneer League,Orem Owlz,South,"Orem, Utah",40.276874,-111.717234,stadium
