@@ -12,3 +12,15 @@ The data was originally compiled from Wikipedia and [The Baseball Cube](http://w
 ## Contributing and Usage
 
 Everyone is welcome to contribute or use [this data](https://github.com/gavinr/minor-league-baseball/blob/master/minor-league-baseball.csv).
+
+## Script
+
+A script is used to update the data CSV. It is located in the `script` folder. To run, make sure Node.js is installed, then:
+
+```
+cd script
+npm install
+node main.js
+```
+
+This will overwrite the `minor-league-baseball.csv` file in the top level directory.
